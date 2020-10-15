@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-homework repository
+# goit-markup-hw-01
